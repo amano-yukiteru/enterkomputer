@@ -1,0 +1,254 @@
+.contentss3{
+    display: flex;
+    flex-direction: column;
+    margin: 60px 0 0 0;
+    justify-content: center;
+    width: 87%;
+    padding: 20px 0;
+}
+.contentss3 .grup_card {
+    max-width: 2570px;
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 0px 5.5px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 4px 4px;
+    border: 3px solid orange;
+    box-sizing: border-box;
+}
+.contentss3 .shell{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    display: flex;
+    max-width: 2570px;
+    width: 100%;
+    background-color: orange;
+    padding-bottom: 10px;
+    border-radius: 18px 18px 0 0;
+    box-shadow: 0px 0 12px rgba(0, 0, 0, 0.2);
+    height: 100%;
+}
+.contentss3 .shell img{
+    display: flex;
+    height: auto;
+    margin: 10px auto;
+    margin-top: -45px;
+    position: relative;
+}
+.selengkapnya{
+    display: inline-block;
+    margin: auto 20px auto 0;
+}
+.selengkapnya h5{
+    left: 20px;
+    display: inline-block;
+    margin: 0;
+    font-size: 1.2rem;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: bold; */
+    letter-spacing: 0.3px;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+    letter-spacing: 0.1px;
+}
+.selengkapnya h5:hover{
+    color: rgb(223, 223, 223);
+    transition: all 0.3s ease-in-out;
+}
+.contentss3 .item2:hover{
+    border: 0.5px solid rgba(98, 98, 98, 0.692);
+}
+.container3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    height: auto;
+    margin: 10px;
+    /* background-color: aqua; */
+}
+.container .foto{
+    width: 90%;
+}
+.container3 .foto img{
+    width: 100%;
+    height: auto;
+    transition: all ease 0.6s;
+}
+.container3 .foto img:hover{
+    transition: all ease 0.6s;
+    scale: calc(1.11);
+}
+.container3 .deskripsi:hover{
+    cursor: pointer;
+    color: green;
+}
+.container3 .p_s{
+    padding: 10px 5px;
+    margin: auto;
+}
+.container3 .f_card, .deskripsi, .foto, .card_harga{
+    margin: 1%;
+    overflow: hidden;
+}
+.container3 .f_card{
+    display: flex;
+    align-items: center;
+}
+.container3 .f_card img{
+    width: 15%;
+    margin: 0 0.5%;
+    margin-top: 10px;
+    border-radius: 20%;
+}
+.container3 .deskripsi{
+    height: 100%;
+    line-height: clamp(1rem, 1.5vw, 2rem);
+    /* font-size: clamp(0.8rem, 1.3vw, 1.8rem); */
+    color: rgba(0, 0, 0, 0.756);
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.container3 .item2{
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
+    border: 0.5px solid rgba(0, 0, 0, 0.097);
+}
+.contentss3 .card_harga{
+    margin: 0 0.5%;
+    display: inline-block;
+    flex-direction: column;
+    
+}
+.contentss3 .card_harga .harga1{
+    display: inline-block;
+    margin: 10% 0 5% 0;
+    width: 100%;
+}
+.contentss3 .card_harga .harga1 h4.s1{
+    display: inline-block;
+    /* margin-top: clamp(0%, 1%, 5%); */
+    /* font-size: clamp(0.5rem,1.1vw, 1.2rem); */
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgba(78, 78, 78, 0.857);
+    text-decoration: line-through 2px solid rgba(0, 0, 0, 0.827);
+    text-underline-offset: 3px;
+    width: auto;
+}
+.contentss3 .perp{
+    display: inline-block;
+    /* margin-left: 1vw; */
+    align-items: center;
+    background-color: red;
+    padding: 1%;
+    border-radius: 4px;
+    width: fit-content;
+}
+.contentss3 .card_harga .harga1 h4.per{
+    display: inline-block;
+    max-width: fit-content;
+    /* margin: 0.5%; */
+    font-weight: bold;
+    color: antiquewhite;
+    /* font-size: clamp(0.5rem, 10vw, 1rem); */
+    border-radius: 8px;
+    text-align: center;
+    justify-content: center;
+}
+.contentss3 .card_harga .harga2{
+    color: green;
+    margin: 0.5px;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    display: flex;
+    /* font-size: clamp(1rem, 1.5vw, 2rem);     */
+    font-weight: bold;
+    justify-content: flex-start;
+}
+.container3 .pli{
+    margin: 5px 0 0 0;
+    display: inline-block;
+    width: 100%;
+}
+.contentss3 .card_harga .pli h4.ready{
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    /* margin: 0.5%; */
+    padding: 8px 8px 6px 8px;
+    background-color: green;
+    font-weight: bold;
+    color: antiquewhite;
+    border-radius: 4px;
+    text-align: center;
+    max-width: fit-content;
+
+}
+.contentss3 .card_harga .pli h4.best{
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    /* margin: 0.5%; */
+    padding: 8px 8px 6px 8px;
+    background-color: rgb(83, 87, 188);
+    font-weight: bold;
+    color: antiquewhite;
+    border-radius: 4px;
+    text-align: center;
+    max-width: fit-content;
+}
+.contentss3 .e{
+    align-items: center;
+    display: flex;
+    margin: 15px 0 10px 0 ;
+}
+.contentss3 .e img{
+    width: 33px;
+    height: auto;
+}
+.contentss3 .e h4{
+    color: red;
+}
+@media screen and (max-width: 1199px) {
+    .contentss3 .card_harga .harga1 h4.s1{
+        font-size: clamp(0.5rem, 3vw, 1rem);
+    }
+    .contentss3 .card_harga .harga2{
+        font-size: clamp(1rem, 4vw, 2rem);
+    }
+    .contentss3 .deskripsi{
+        font-size: clamp(1rem, 1.5vw, 2rem);
+    }
+    .container3{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: auto;
+    }
+    .contentss3{
+        margin: 0 20px;
+        width: 93.8%;
+        margin: 60px 0 0 0;
+    }
+    .contentss3 .shell{
+        width: 100%;
+    }
+    .content span {
+        display: none;
+    }
+    .n4kosong{
+        display: flex;
+    }
+    .n4 img, .login{
+        display: none;
+    }
+}
+@media screen and (max-width: 600px) {
+    .container3{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+    }
+    .shell{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        flex-wrap:wrap;
+    }
+}

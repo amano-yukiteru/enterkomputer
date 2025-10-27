@@ -1,0 +1,233 @@
+ <div class="contents3">
+            <div class="shell">
+                <img src="../foto/m1.png" alt="">
+                <div class="selengkapnya">
+                    <h5>Selengkapya</h5>
+                </div>
+            </div>
+            <div class="grup_card">
+                <div class="border">
+                    <div class="pembungkus_card">
+                        <div class="container3">
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item2">
+                                <div class="p_s">
+                                    <div class="foto">
+                                        <img src="../foto/mobo.jpg" alt="lll" >
+                                    </div>
+                                    <div class="deskripsi"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In vitae quasi quibusdam dolore quos ut nihil, amet repellendus delectus rem!</p></div>
+                                    <div class="card_harga">
+                                        <div class="pli">
+                                            <h4 class="ready">Ready</h4>
+                                        </div>
+                                        <div class="e">
+                                            <img src="../foto/Screenshot_2025-10-26_144749-removebg-preview 1.png" alt="Profit">
+                                            <h4 class="ready">12000</h4>
+                                        </div>
+                                        <div class="harga2"><h4>Rp 7.000.000</h4></div>
+                                    </div>
+                                    <div class="f_card">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                        <img src="../foto/logo_tab.png" alt="lll">
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
